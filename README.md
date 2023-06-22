@@ -1,6 +1,8 @@
 # -OIBSIP-Task-2
 ---This page is built using HTML, CSS, and JavaScript. It also uses Bootstrap(4.5), a popular CSS framework, and jQuery, a JavaScript library---
+
 All about project:
+
 1.The project is a tribute page created for Thomas Alva Edison, an American inventor and businessman.
 
 2.The page is built using HTML, CSS, and JavaScript.
